@@ -1,0 +1,68 @@
+.cat {
+    justify-content: center;
+    text-align: center;
+    margin: 0% 20%;
+    background-color: black;
+    color: yellow;
+}
+
+.only {
+    background-color: grey;
+}
+
+.player {
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    margin: 0 auto;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 2px;
+
+}
+
+.box-2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 2px;
+    margin-top: -2px;
+}
+
+.box-3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 2px;
+    margin-top: -2px;
+}
+
+
+section {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+
+}
+
+.play {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(38, 29, 28);
+    padding: 0.5%;
+    width: 20%;
+    height: 2%;
+     color: yellow;
+     font-size: 30px;
+     margin-top: 3px;
+}
