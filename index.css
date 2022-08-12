@@ -26,27 +26,15 @@
     height: 100px;
     background-color: yellow;
     margin: 2px;
-
-}
-
-.box-2 {
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
-    margin: 2px;
-    margin-top: -2px;
-}
-
-.box-3 {
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
-    margin: 2px;
-    margin-top: -2px;
+margin-top: -2px;
+justify-content: center;
+align-items: center;
+display: flex;
+font-size: 90px;
 }
 
 
-section {
+.boxes {
     display: flex;
     justify-content: center;
     padding-top: 5px;
@@ -57,7 +45,7 @@ section {
     text-align: center;
 }
 
-button {
+#jug {
     background-color: rgb(38, 29, 28);
     padding: 0.5%;
     width: 20%;
